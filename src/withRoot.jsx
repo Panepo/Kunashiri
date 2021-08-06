@@ -3,12 +3,12 @@ import 'typeface-roboto'
 import orange from '@material-ui/core/colors/orange'
 import pink from '@material-ui/core/colors/pink'
 import CssBaseline from '@material-ui/core/CssBaseline'
-import { MuiThemeProvider, createMuiTheme } from '@material-ui/core/styles'
+import { MuiThemeProvider, createTheme } from '@material-ui/core/styles'
 import React from 'react'
 
 // A theme with custom primary and secondary color.
 // It's optional.
-const theme = createMuiTheme({
+const theme = createTheme({
   typography: {
     fontFamily: 'Roboto'
   },
