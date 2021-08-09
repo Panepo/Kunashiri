@@ -26,6 +26,8 @@ An implementation of WebAssembly with React.
 
 * [WebAssembly.org](https://webassembly.org/)
 * [Koala 42](https://koala42.com/)
+* [Neutrino's Blog](https://tigercosmos.xyz/)
+* [Wasm to Wat](https://webassembly.github.io/wabt/demo/wasm2wat/)
 
 # Develop
 
@@ -57,6 +59,7 @@ $ yarn start
 |`yarn <script>`       |Description|
 |-------------------|-----------|
 |`start`            |Serves your app at `localhost:3000`|
+|`electron-start`   |Run your app with electron|
 |`test`             |Run test code in ./src|
 |`prettier`         |Prettier code in ./src|
 |`build`            |Builds the production application to ./build|
