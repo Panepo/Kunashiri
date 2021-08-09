@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/Kunashiri/static/js/main.1435266f.chunk.js",
+    "main.js.map": "/Kunashiri/static/js/main.1435266f.chunk.js.map",
+    "runtime-main.js": "/Kunashiri/static/js/runtime-main.6dd482c5.js",
+    "runtime-main.js.map": "/Kunashiri/static/js/runtime-main.6dd482c5.js.map",
+    "static/css/2.cf8a59bb.chunk.css": "/Kunashiri/static/css/2.cf8a59bb.chunk.css",
+    "static/js/2.6a3049ae.chunk.js": "/Kunashiri/static/js/2.6a3049ae.chunk.js",
+    "static/js/2.6a3049ae.chunk.js.map": "/Kunashiri/static/js/2.6a3049ae.chunk.js.map",
+    "static/js/3.912b4203.chunk.js": "/Kunashiri/static/js/3.912b4203.chunk.js",
+    "bb0298725fd1980874c6.module.wasm": "/Kunashiri/bb0298725fd1980874c6.module.wasm",
+    "static/js/3.912b4203.chunk.js.map": "/Kunashiri/static/js/3.912b4203.chunk.js.map",
+    "static/js/4.197a3675.chunk.js": "/Kunashiri/static/js/4.197a3675.chunk.js",
+    "static/js/4.197a3675.chunk.js.map": "/Kunashiri/static/js/4.197a3675.chunk.js.map",
+    "index.html": "/Kunashiri/index.html",
+    "static/css/2.cf8a59bb.chunk.css.map": "/Kunashiri/static/css/2.cf8a59bb.chunk.css.map",
+    "static/js/2.6a3049ae.chunk.js.LICENSE.txt": "/Kunashiri/static/js/2.6a3049ae.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Kunashiri/static/media/roboto-latin-900italic.cb5ad999.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dd482c5.js",
+    "static/css/2.cf8a59bb.chunk.css",
+    "static/js/2.6a3049ae.chunk.js",
+    "static/js/main.1435266f.chunk.js"
+  ]
+}
